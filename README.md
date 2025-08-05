@@ -28,13 +28,15 @@
 
 ## 📱 Screenshots
   
-<img src="screenshots/Screenshot_20240823_141149.png" alt="Light Mode" width="300"/>
+<img src="screenshot/Dashboard.png" alt="Light Mode" width="300"/>
 
-<img src="screenshots/Screenshot_20240823_141207.png" alt="Light Mode Detail" width="300"/>
+<img src="screenshot/MontioredApp.png" alt="Light Mode Detail" width="300"/>
 
-<img src="screenshots/Screenshot_20240823_141215.png" alt="Light Mode Detail" width="300"/>
+<img src="screenshot/AddApps.png" alt="Light Mode Detail" width="300"/>
 
-<img src="screenshots/Screenshot_20240823_141256.png" alt="Light Mode Detail" width="300"/>
+<img src="screenshot/Quotes.png" alt="Light Mode Detail" width="300"/>
+
+<img src="screenshot/Settings.png" alt="Light Mode Detail" width="300"/>
 
 
 ## 🏗️ Technical Architecture
@@ -179,14 +181,6 @@ Settings → Apps → MindGuard → Display over other apps → Allow
 - Enable/disable monitoring per app
 - Reset usage data when needed
 
-## 📊 Data & Analytics
-
-### **Tracked Metrics**
-- **Total Screen Time** - Daily usage across all apps
-- **Problems Solved** - Math challenges completed successfully
-- **Breaks Taken** - Times user chose break over challenge
-- **Time Saved** - Estimated reduction in excessive usage
-
 ### **Storage**
 - Local SQLite database via Room
 - No data transmitted to external servers
@@ -239,7 +233,6 @@ We welcome contributions! Please follow these guidelines:
 - Use meaningful variable and function names
 - Add comments for complex logic
 - Maintain consistent formatting
-
 
 
 **Built with ❤️ using Modern Android Development practices**
