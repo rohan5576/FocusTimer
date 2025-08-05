@@ -1,4 +1,4 @@
-# 🧠 MindGuard - Digital Wellness & App Blocker
+# 🧠 FocusTimer(MindGuard) - Digital Wellness & App Blocker
 
 [![Android](https://img.shields.io/badge/Platform-Android-brightgreen.svg)](https://developer.android.com)
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple.svg)](https://kotlinlang.org)
@@ -26,22 +26,16 @@
 - **🌐 Online Content** - Fresh quotes from external APIs
 - **🐛 Debug Tools** - Comprehensive debugging and testing utilities
 
-## 🎨 Screenshots
+## 📱 Screenshots
+  
+<img src="screenshots/Screenshot_20240823_141149.png" alt="Light Mode" width="300"/>
 
-### Main Dashboard
-*Real-time usage statistics and quick actions*
+<img src="screenshots/Screenshot_20240823_141207.png" alt="Light Mode Detail" width="300"/>
 
-### Apps Management
-*Add, remove, and configure app monitoring settings*
+<img src="screenshots/Screenshot_20240823_141215.png" alt="Light Mode Detail" width="300"/>
 
-### Blocking Overlay
-*Math challenge when time limit is reached*
+<img src="screenshots/Screenshot_20240823_141256.png" alt="Light Mode Detail" width="300"/>
 
-### Statistics & Analytics
-*Weekly trends and achievement tracking*
-
-### Settings & Permissions
-*Permission management and configuration*
 
 ## 🏗️ Technical Architecture
 
@@ -122,8 +116,8 @@ app/src/main/java/com/mindguard/app/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/rohan5576/mindguard.git
-cd mindguard
+git clone https://github.com/rohan5576/FocusTimer.git
+cd FocusTimer
 ```
 
 2. **Open in Android Studio**
@@ -250,4 +244,4 @@ We welcome contributions! Please follow these guidelines:
 
 **Built with ❤️ using Modern Android Development practices**
 
-*MindGuard - Empowering mindful digital habits through intelligent intervention*
+*FocusTimer - Empowering mindful digital habits through intelligent intervention*
