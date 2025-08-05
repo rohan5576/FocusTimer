@@ -28,15 +28,15 @@
 
 ## 📱 Screenshots
   
-<img src="screenshot/Dashboard.png" alt="Light Mode" width="300"/>
+<img src="screenshots/dashboard.png" alt="Light Mode" width="300"/>
 
-<img src="screenshot/MontioredApp.png" alt="Light Mode Detail" width="300"/>
+<img src="screenshots/montioredapps.png" alt="Light Mode Detail" width="300"/>
 
-<img src="screenshot/AddApps.png" alt="Light Mode Detail" width="300"/>
+<img src="screenshots/addapps.png" alt="Light Mode Detail" width="300"/>
 
-<img src="screenshot/Quotes.png" alt="Light Mode Detail" width="300"/>
+<img src="screenshots/quotes.png" alt="Light Mode Detail" width="300"/>
 
-<img src="screenshot/Settings.png" alt="Light Mode Detail" width="300"/>
+<img src="screenshots/settings.png" alt="Light Mode Detail" width="300"/>
 
 
 ## 🏗️ Technical Architecture
